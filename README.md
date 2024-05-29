@@ -1,4 +1,3 @@
-![image](https://github.com/sabrynbleys/sabrynbleys/assets/169674594/f3b29e6e-4ac2-44c8-85d2-26985e5e655b)
 ## Hello! I'm Sabryn
 
 ### About Me:
