@@ -1,16 +1,13 @@
-## Hi there 👋
+![image](https://github.com/sabrynbleys/sabrynbleys/assets/169674594/f3b29e6e-4ac2-44c8-85d2-26985e5e655b)
+## Hello! I'm Sabryn
 
-<!--
-**sabrynbley/sabrynbley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+- 💼 Second-Year Data Science Intern at [Charter Manufacturing](https://www.chartermfg.com/)
+- 📚 Senior Computer Science Major at [MSOE University](https://www.msoe.edu/)
+- 🏃‍♀️ XC + Track & Field Athlete at MSOE University
+- ❤️ Favorite Language: Python
 
-Here are some ideas to get you started:
+### GitHub Stats:
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sabrynbleys)](https://github.com/sabrynbleys)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrynbleys&layout=compact)](https://github.com/sabrynbleys)
