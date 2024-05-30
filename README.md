@@ -7,7 +7,7 @@
 - ❤️ Favorite Language: Python
 
 ### GitHub Stats:
-[![Sabryn’s github stats](https://github-readme-stats-nine-teal-48.vercel.app/api?username=sabrynbley&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true))](https://github.com/sabrynbley)
+[![Sabryn’s github stats](https://github-readme-stats-nine-teal-48.vercel.app/api?username=sabrynbley&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true)](https://github.com/sabrynbley)
 
 [![Top Languages](https://github-readme-stats-nine-teal-48.vercel.app/api/top-langs/?username=sabrynbley&layout=compact&hide=rebol&theme=tokyonight)](https://github.com/sabrynbley)
 
