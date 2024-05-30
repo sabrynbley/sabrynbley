@@ -9,4 +9,5 @@
 ### GitHub Stats:
 [![Sabryn’s github stats](https://github-readme-stats.vercel.app/api?username=sabrynbley)](https://github.com/sabrynbley)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrynbley&layout=compact)](https://github.com/sabrynbley)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrynbley&layout=compact&hide=rebol,html)](https://github.com/sabrynbley)
+
