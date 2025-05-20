@@ -2,8 +2,8 @@
 
 ### About Me:
 - 💼 Second-Year Data Science Intern at [Charter Manufacturing](https://www.chartermfg.com/)
-- 📚 Senior Computer Science Major at [MSOE University](https://www.msoe.edu/)
-- 🏃‍♀️ XC + Track & Field Athlete at MSOE University
+- 🎓 B.S. Computer Science Alumni (2025) from [MSOE University](https://www.msoe.edu/)
+- 📚 M.S. Data Insights & Analytics at [UW-Madison](https://www.wisc.edu/)
 - ❤️ Favorite Language: Python
 
 ### GitHub Stats:
