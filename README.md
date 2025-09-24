@@ -1,7 +1,7 @@
 ## Hello! I'm Sabryn
 
 ### About Me:
-- 💼 Second-Year Data Science Intern at [Charter Manufacturing](https://www.chartermfg.com/)
+- 💼 Digital Rotational Analyst - Technical at [Charter Manufacturing](https://www.chartermfg.com/)
 - 🎓 B.S. Computer Science Alumni (2025) from [MSOE University](https://www.msoe.edu/)
 - 📚 M.S. Data Insights & Analytics at [UW-Madison](https://www.wisc.edu/)
 - ❤️ Favorite Language: Python
